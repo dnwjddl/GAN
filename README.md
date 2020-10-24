@@ -1,2 +1,2 @@
 # GAN
-study for GAN
+study GAN
