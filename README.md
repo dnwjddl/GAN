@@ -1,6 +1,40 @@
 # GAN 
 study GAN
 
+## DCGAN
+
+## Unconditional GAN
+### GAN LOSS
+#### WGAN
+#### WGAN-GP
+#### LSGAN
+#### BEGAN
+
+### Normalizaton
+#### SNGAN
+
+### Architecture
+#### SAGAN
+#### BigGAN
+#### ProgressiveGAN
+#### StyleGAN
+#### StyleGANv2
+
+## Conditional GAN (cGAN)
+### Pair
+#### pix2pix
+### Unpair
+#### CycleGAN
+#### DiscoGAN
+#### GauGAN
+
+### Multi-domain
+#### starGAN
+#### starGANv2
+
+## Super Resolution
+### SRGAN
+
 ## BASIC
 generate mnist
 **make fake images using GAN**
